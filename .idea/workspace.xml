@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d0c2275-38bc-4e0e-8884-c877b493705d" name="Changes" comment="InsertioninArray.java">
-      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/DeletingElementArray.java" afterDir="false" />
+    <list default="true" id="0d0c2275-38bc-4e0e-8884-c877b493705d" name="Changes" comment="DeletingElementArray">
+      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/SearchinSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;last_opened_file_path&quot;: &quot;E:/Java Practice/First-java-program/src/com/kamlesh/Java_questions&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DeletingElementArray">
+  <component name="RunManager" selected="Application.SearchinSortedArray">
     <configuration name="DeletingElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kamlesh.DeletingElementArray" />
       <module name="GeeksDSA" />
@@ -64,6 +64,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchinSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kamlesh.SearchinSortedArray" />
+      <module name="GeeksDSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kamlesh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SearchinginArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kamlesh.SearchinginArray" />
       <module name="GeeksDSA" />
@@ -79,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchinSortedArray" />
         <item itemvalue="Application.DeletingElementArray" />
         <item itemvalue="Application.SearchinginArray" />
         <item itemvalue="Application.InsertioninArray" />
@@ -122,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655134820577</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="DeletingElementArray">
+      <created>1655183061422</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655183061422</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,17 +160,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SearchinginArray.java" />
     <MESSAGE value="InsertioninArray.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="InsertioninArray.java" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/kamlesh/DeletingElementArray.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="DeletingElementArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="DeletingElementArray" />
   </component>
 </project>
