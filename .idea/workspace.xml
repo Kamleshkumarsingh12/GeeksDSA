@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d0c2275-38bc-4e0e-8884-c877b493705d" name="Changes" comment="SearchinSortedArray.java">
-      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/InsertinginSortedArray.java" afterDir="false" />
+    <list default="true" id="0d0c2275-38bc-4e0e-8884-c877b493705d" name="Changes" comment="InsertinginSortedArray.java">
+      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/GEEKS/DeletingElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/GEEKS/InsertinginSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/GEEKS/InsertioninArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/GEEKS/SearchinSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/GEEKS/SearchinginArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,14 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Java Practice/First-java-program/src/com/kamlesh/Java_questions&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Java Practice/GeeksDSA/src/com/kamlesh/GEEKS"
   }
-}</component>
-  <component name="RunManager" selected="Application.InsertinginSortedArray">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java Practice\GeeksDSA\src\com\kamlesh\GEEKS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DeletingElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kamlesh.DeletingElementArray" />
       <module name="GeeksDSA" />
@@ -64,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertioninArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kamlesh.InsertioninArray" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kamlesh.KunalLinearSearching.Main" />
       <module name="GeeksDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kamlesh.*" />
+          <option name="PATTERN" value="com.kamlesh.KunalLinearSearching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.InsertinginSortedArray" />
         <item itemvalue="Application.SearchinSortedArray" />
         <item itemvalue="Application.DeletingElementArray" />
         <item itemvalue="Application.SearchinginArray" />
-        <item itemvalue="Application.InsertioninArray" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655192824101</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="InsertinginSortedArray.java">
+      <created>1655285202222</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655285202222</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +199,7 @@
     <MESSAGE value="InsertioninArray.java" />
     <MESSAGE value="DeletingElementArray" />
     <MESSAGE value="SearchinSortedArray.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="SearchinSortedArray.java" />
+    <MESSAGE value="InsertinginSortedArray.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="InsertinginSortedArray.java" />
   </component>
 </project>
