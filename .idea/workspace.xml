@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d0c2275-38bc-4e0e-8884-c877b493705d" name="Changes" comment="InsertinginSortedArray.java">
-      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/GEEKS/DeletingElementArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/GEEKS/InsertinginSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/GEEKS/InsertioninArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/GEEKS/SearchinSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/GEEKS/SearchinginArray.java" afterDir="false" />
+    <list default="true" id="0d0c2275-38bc-4e0e-8884-c877b493705d" name="Changes" comment="searchinginArraykunal.java">
+      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/KunalLinearSearching/SearchinString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list id="9e8b3a79-e8e9-4716-8a71-de6c4d124de1" name="Kunal codes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +43,7 @@
       <recent name="E:\Java Practice\GeeksDSA\src\com\kamlesh\GEEKS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.SearchinString">
     <configuration name="DeletingElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kamlesh.DeletingElementArray" />
       <module name="GeeksDSA" />
@@ -99,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchinginArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kamlesh.SearchinginArray" />
+    <configuration name="SearchinString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kamlesh.KunalLinearSearching.SearchinString" />
       <module name="GeeksDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kamlesh.*" />
+          <option name="PATTERN" value="com.kamlesh.KunalLinearSearching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchinString" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.InsertinginSortedArray" />
         <item itemvalue="Application.SearchinSortedArray" />
         <item itemvalue="Application.DeletingElementArray" />
-        <item itemvalue="Application.SearchinginArray" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +123,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0d0c2275-38bc-4e0e-8884-c877b493705d" name="Changes" comment="" />
+      <changelist id="9e8b3a79-e8e9-4716-8a71-de6c4d124de1" name="Kunal codes" comment="" />
       <created>1655130564323</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -180,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655285202222</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="searchinginArraykunal.java">
+      <created>1655289409041</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655289409041</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +205,7 @@
     <MESSAGE value="DeletingElementArray" />
     <MESSAGE value="SearchinSortedArray.java" />
     <MESSAGE value="InsertinginSortedArray.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="InsertinginSortedArray.java" />
+    <MESSAGE value="searchinginArraykunal.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="searchinginArraykunal.java" />
   </component>
 </project>
