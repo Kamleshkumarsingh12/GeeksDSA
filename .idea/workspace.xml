@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d0c2275-38bc-4e0e-8884-c877b493705d" name="Changes" comment="SearchinString.java">
-      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/KunalLinearSearching/SearchingRange.java" afterDir="false" />
+    <list default="true" id="0d0c2275-38bc-4e0e-8884-c877b493705d" name="Changes" comment="SearchingRange.java">
+      <change afterPath="$PROJECT_DIR$/src/com/kamlesh/KunalLinearSearching/MinimumNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="9e8b3a79-e8e9-4716-8a71-de6c4d124de1" name="Kunal codes" comment="" />
@@ -43,7 +43,7 @@
       <recent name="E:\Java Practice\GeeksDSA\src\com\kamlesh\GEEKS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchingRange">
+  <component name="RunManager" selected="Application.MinimumNumber">
     <configuration name="InsertinginSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kamlesh.InsertinginSortedArray" />
       <module name="GeeksDSA" />
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchinSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kamlesh.SearchinSortedArray" />
+    <configuration name="MinimumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kamlesh.KunalLinearSearching.MinimumNumber" />
       <module name="GeeksDSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kamlesh.*" />
+          <option name="PATTERN" value="com.kamlesh.KunalLinearSearching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumNumber" />
         <item itemvalue="Application.SearchingRange" />
         <item itemvalue="Application.SearchinString" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.InsertinginSortedArray" />
-        <item itemvalue="Application.SearchinSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655290552593</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="SearchingRange.java">
+      <created>1655440952717</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655440952717</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +221,7 @@
     <MESSAGE value="InsertinginSortedArray.java" />
     <MESSAGE value="searchinginArraykunal.java" />
     <MESSAGE value="SearchinString.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="SearchinString.java" />
+    <MESSAGE value="SearchingRange.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="SearchingRange.java" />
   </component>
 </project>
